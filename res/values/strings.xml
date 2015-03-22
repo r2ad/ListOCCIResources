@@ -1,0 +1,10 @@
+<resources>
+    <string name="hello">Hello World, OCCIListViewActivity!</string>
+    <string name="app_name">OCCIListView</string>    
+    <string name="welcome">Press the button to login and obtain a list of resources using the Open Cloud Computing Interface (OCCI) specification from the URL:
+    </string>
+    <string name="go">Login and Query Computers</string>
+    <string name="live">Live from NY Cloud Camp</string>
+    <string name="title">Teleclient v0.3</string>
+    <string name="url">https://</string>    
+</resources>
